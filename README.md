@@ -33,7 +33,10 @@
 - 1D-Array
 - 2D-Array
 ## STRINGS
-- 
+- learn
+- solve problem
+## OOPs 
+### Class & Object
 
 
 
