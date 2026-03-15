@@ -37,6 +37,9 @@
 - solve problem
 ## OOPs 
 ### Class & Object
+### Constructor
+- Default constructor
+- Parameterized constructor
 
 
 
