@@ -41,6 +41,9 @@
 - Default constructor
 - Parameterized constructor
 - this keyword
+- Copy Constructor
+- Private constructor
+### Instance block
 
 
 
