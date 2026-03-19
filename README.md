@@ -44,6 +44,13 @@
 - Copy Constructor
 - Private constructor
 ### Instance block
+### Static block
+### Inheritance 
+- Single/simple inheritance
+- Multilevel inheritance
+- Hierarchial inheritance
+
+
 
 
 
