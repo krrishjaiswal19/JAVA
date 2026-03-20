@@ -87,3 +87,42 @@ class Test
 // Hierarchial Inheritance
 // if multiple sub classes extends one super class is called hierarchical inheritance
 
+class A
+{
+    void input()
+    {
+        System.out.println("Enter your number: ");
+    }
+}
+
+class B extends A
+{
+    void show()
+    {
+        System.out.println("My name is krrish");
+    }
+}
+
+class C extends A
+{
+    void Display()
+    {
+        System.out.println("My surname is jaiswal");
+    }
+}
+
+class Demo
+{
+    public static void main(String[] args)
+    {
+        B r = new B();
+        C r2 = new C();
+
+        r.input();
+        r.show();
+
+        r2.input();
+        r2.Display();
+    }
+}
+
