@@ -49,6 +49,8 @@
 - Single/simple inheritance
 - Multilevel inheritance
 - Hierarchial inheritance
+### Super keyword
+### Polymorphism basic
 
 
 
