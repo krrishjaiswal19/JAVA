@@ -50,7 +50,9 @@
 - Multilevel inheritance
 - Hierarchial inheritance
 ### Super keyword
-### Polymorphism basic
+### Polymorphism 
+- Compile time polymorphism
+- Run time polymorphism
 
 
 
