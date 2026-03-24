@@ -53,6 +53,8 @@
 ### Polymorphism 
 - Compile time polymorphism
 - Run time polymorphism
+### Encapsulation
+
 
 
 
