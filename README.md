@@ -54,7 +54,9 @@
 - Compile time polymorphism
 - Run time polymorphism
 ### Encapsulation
-
+### Abstract
+- Abstract method
+- Abstract class
 
 
 
