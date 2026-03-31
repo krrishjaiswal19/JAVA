@@ -57,6 +57,11 @@
 ### Abstract
 - Abstract method
 - Abstract class
+### Interface
+- Interface Variable
+- Interface Methods
+- Extending Interface
+- Multiple Inheritance
 
 
 
