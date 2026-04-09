@@ -75,6 +75,10 @@
 - user-defined package
 - Access modifier
 
+### Multithreading-project
+- Thread by Extending
+- Thread using Runnable
+
 ## PROJECT
 - Student-Management-System
 - Safe-Divison-Calculator
