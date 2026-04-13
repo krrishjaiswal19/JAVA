@@ -78,6 +78,7 @@
 ### Multithreading-project
 - Thread by Extending
 - Thread using Runnable
+- Sleep() method
 
 ## PROJECT
 - Student-Management-System
